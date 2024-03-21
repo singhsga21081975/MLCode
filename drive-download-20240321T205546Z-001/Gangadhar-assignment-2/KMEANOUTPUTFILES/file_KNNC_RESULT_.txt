@@ -1,0 +1,3 @@
+
+--------------- K NNC  Table - Error(MSE) ------------->
+ Index  1 | Error 4079436.36 | No of cluster: 70 | Teeta 100

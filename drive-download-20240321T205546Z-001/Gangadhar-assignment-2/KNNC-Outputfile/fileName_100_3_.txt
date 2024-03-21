@@ -1,0 +1,14 @@
+ 
+ 
+Index :  Threshold  value used for processing ====> 3 , 100.00 
+
+ 
+ Error ==>  3959840.7985761897 for Threshold 100.00
+
+ No. of new cluster Leader of the patterns are  74:
+---------------------------------------------------------------
+Cluster Leader of the patterns
+	 Cluster Leader List Index  : [0, 2, 3, 6, 7, 8, 12, 14, 15, 16, 19, 24, 26, 27, 28, 34, 37, 39, 47, 50, 55, 57, 65, 68, 69, 79, 80, 81, 85, 88, 94, 98, 99, 126, 159, 165, 169, 178, 195, 207, 209, 214, 217, 219, 221, 233, 235, 258, 327, 353, 378, 464, 476, 535, 540, 543, 544, 556, 574, 576, 611, 612, 712, 752, 753, 761, 764, 818, 826, 847, 886, 908, 958, 991] 
+
+ 
+ Index Table - Teeta Details , Error(MSE) , Cluster List ------------->
